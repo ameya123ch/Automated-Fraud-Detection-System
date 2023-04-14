@@ -1,4 +1,4 @@
-## 1. Automated Fraud Detection System 
+# Automated Fraud Detection System 
 
 
 ![gifgit](https://user-images.githubusercontent.com/88341388/226695241-221b3a90-33fc-4635-a935-5e92da4a7080.gif)
@@ -34,4 +34,4 @@ The proposed automated fraud detection system using deep learning techniques wil
 
 ### Final Deployment 
 
-https://huggingface.co/spaces/ameya123ch/Fraud_Detection_System
+https://huggingface.co/spaces/ameya123ch/fraud_detection
